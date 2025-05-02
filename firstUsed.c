@@ -9,3 +9,4 @@ int main(){
     printf("你的名字是%s\n",str);
     return 0;
 }
+nn,
